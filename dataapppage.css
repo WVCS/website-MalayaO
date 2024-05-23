@@ -1,0 +1,33 @@
+body{
+  background-color: antiquewhite;
+}
+h1{
+  font-family: garamond;
+  background-color: #9e8072;
+  padding: 30px;
+  font-size: 50px;
+  color: #fcd3d2;
+}
+
+nav {
+  list-style-type: none;
+  background-color: pink;
+  position: fixed;
+  width: 100vw;
+  color: black;
+  top: 0;
+  right: 0;
+  padding: 10px;
+  Text-Align: right;
+  font-family: Garamond;
+  font-size: 20px;
+}
+
+li {
+  display: inline;
+  padding: 20px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
